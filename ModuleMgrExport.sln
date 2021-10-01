@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.1433
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "ModuleMgrExport", "ModuleMgrExport\ModuleMgrExport.vcxproj", "{C8F848C8-0AD3-4A68-94F9-62E8FC5DE742}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|PSVita = Debug|PSVita
+		Release|PSVita = Release|PSVita
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C8F848C8-0AD3-4A68-94F9-62E8FC5DE742}.Debug|PSVita.ActiveCfg = Debug|PSVita
+		{C8F848C8-0AD3-4A68-94F9-62E8FC5DE742}.Debug|PSVita.Build.0 = Debug|PSVita
+		{C8F848C8-0AD3-4A68-94F9-62E8FC5DE742}.Release|PSVita.ActiveCfg = Release|PSVita
+		{C8F848C8-0AD3-4A68-94F9-62E8FC5DE742}.Release|PSVita.Build.0 = Release|PSVita
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {EA391AAE-DAEC-4CC0-A179-891BB00DA956}
+	EndGlobalSection
+EndGlobal
